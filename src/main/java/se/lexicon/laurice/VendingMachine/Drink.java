@@ -27,5 +27,4 @@ public class Drink extends Product {
 		System.out.println("Drink this product");
 	}
 
-
 }

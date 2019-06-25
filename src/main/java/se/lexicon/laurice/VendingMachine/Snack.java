@@ -19,5 +19,4 @@ public class Snack extends Product {
 		System.out.println("Eat this product");
 	}
 
-
 }

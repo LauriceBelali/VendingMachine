@@ -128,6 +128,4 @@ public class VendingMachineImp implements VendingMachine {
 		return this.products;
 	}
 
-	
-
 }

@@ -17,5 +17,4 @@ public class Food extends Product {
 	public void use() {
 		System.out.println("Eat this product");
 	}
-
 }
